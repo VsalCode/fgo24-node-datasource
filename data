@@ -2,36 +2,36 @@
   {
     "name": "Caffe Latte",
     "price": 30000,
-    "coffee": true
+    "category": "coffee"
   },
   {
     "name": "Hot Espresso",
     "price": 19000,
-    "coffee": true
+    "category": "coffee"
   },
   {
     "name": "Choco Hazelnut",
     "price": 35000,
-    "coffee": false
+    "category": "non coffee"
   },
   {
     "name": "Ice Matcha",
     "price": 23000,
-    "coffee": false
+    "category": "non coffee"
   },
   {
     "name": "Thai Tea",
     "price": 20000,
-    "coffee": false
+    "category": "non coffee"
   },
   {
     "name": "Cappucino",
     "price": 25000,
-    "coffee": true
+    "category": "coffee"
   },
   {
     "name": "Green Tea",
     "price": 18000,
-    "coffee": false
+    "category": "non coffee"
   }
 ]

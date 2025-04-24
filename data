@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Caffe Latte",
+    "price": 30000,
+    "variant": "coffee"
+  },
+  {
+    "name": "Hot Espresso",
+    "price": 19000,
+    "variant": "coffee"
+  },
+  {
+    "name": "Choco Hazelnut",
+    "price": 35000,
+    "variant": "non coffee"
+  },
+  {
+    "name": "Ice Matcha",
+    "price": 23000,
+    "variant": "non coffee"
+  },
+  {
+    "name": "Thai Tea",
+    "price": 20000,
+    "variant": "non coffee"
+  },
+  {
+    "name": "Cappucino",
+    "price": 25000,
+    "variant": "coffee"
+  },
+  {
+    "name": "Green Tea",
+    "price": 18000,
+    "variant": "non coffee"
+  }
+]
